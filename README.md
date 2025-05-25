@@ -16,7 +16,7 @@ A responsive web app to check real-time weather conditions in any city, built us
 
 ## 🚀 Live Demo
 
-👉 [Click here to open the app](https://yourusername.github.io/weather-app)
+👉 [Click here to open the app](https://mohd-noman1.github.io/weather-app/)
 
 ---
 
